@@ -9,6 +9,6 @@ A simple command line app using the A* algorithm to find the shortest route betw
 Clone the repository and run the app in your local environment.
 
 ```bash
-git clone https://github.com/<your_username>/drone-delivery.git
+git clone https://github.com/lundkvistbenjamin/drone-delivery.git
 cd drone-delivery
 java -jar drone-delivery.jar
