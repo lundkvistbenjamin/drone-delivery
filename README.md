@@ -5,14 +5,5 @@ A simple command line app using the A* algorithm to find the shortest route betw
 - Route calculation using A* algorithm
 - Command line interface
 
-## Installation
-Clone the repository and run the app in your local environment.
-
-```bash
-git clone https://github.com/lundkvistbenjamin/drone-delivery.git
-cd drone-delivery
-java -jar drone-delivery.jar
-```
-
 ## **License**  
 MIT License  
