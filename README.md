@@ -12,3 +12,7 @@ Clone the repository and run the app in your local environment.
 git clone https://github.com/lundkvistbenjamin/drone-delivery.git
 cd drone-delivery
 java -jar drone-delivery.jar
+```
+
+## **License**  
+MIT License  
